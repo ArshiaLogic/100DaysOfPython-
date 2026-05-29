@@ -20,8 +20,8 @@ The course, taught by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-c
 
 | Milestone | Phase | Status |
 | :--- | :--- | :--- |
-| **Days 1-14** | Python Fundamentals | ✅ Completed |
-| **Days 15-30** | Intermediate & OOP | 🚧 In Progress |
+| **Days 1-14** | Python Fundamentals | 🚧 In Progress |
+| **Days 15-30** | Intermediate & OOP | ⏳ Up Next |
 | **Days 31-50** | Web Development & APIs | ⏳ Up Next |
 | **Days 51-70** | Data Science & Automation | ⏳ Up Next |
 | **Days 71-100** | Advanced Projects & Capstones | ⏳ Up Next |
