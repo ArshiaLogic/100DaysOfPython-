@@ -1,0 +1,1 @@
+print("Hello world\nHello world\n hi\n this is john \nhe lives in paris")

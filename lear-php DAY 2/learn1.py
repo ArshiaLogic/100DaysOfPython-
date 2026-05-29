@@ -1,0 +1,16 @@
+# num_char = len(input("What is your name? \n"))
+# new_num_char = str(num_char)
+# print("Your name has " + new_num_char + " characters.")
+
+
+# print(type(num_char))
+
+a = float(123)
+
+
+
+print(type(a))
+
+print(51 + float("4123.412"))
+
+print(str(15) + str(15))
