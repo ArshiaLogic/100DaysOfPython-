@@ -8,7 +8,7 @@
 # result /= 2
 # print(result)
 
-score = 0 
+#score = 0 
 
 
 #User scores a point
@@ -18,8 +18,8 @@ score = 0
 # score /= 1
 # print(score)
 
-score = 0
-height = 1.8
-isWinning = True
+# score = 0
+# height = 1.8
+# isWinning = True
 #f-String با اف می تونیم هر دیتا تایپی رو توی یه خط پرینت کنیم
-print(f"your score is {score}, your height is {height}, your winning is {isWinning} ")
+# print(f"your score is {score}, your height is {height}, your winning is {isWinning} ")
