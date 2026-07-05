@@ -5,55 +5,41 @@ numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 
 #------------------input------------------
-print("Welcome to the PyPassword Generator!")
-nr_letters = int(input("How many letters would you like in your Password?\n"))
-nr_symbols = int(input(f"How many symbols would you like?\n"))
-nr_numbers = int(input(f"How many numbers would you like?\n"))
+# print("Welcome to the PyPassword Generator!")
+# nr_letters = int(input("How many letters would you like in your Password?\n"))
+# nr_symbols = int(input(f"How many symbols would you like?\n"))
+# nr_numbers = int(input(f"How many numbers would you like?\n"))
 
+
+#teacher code fuck fuck fuck
+
+nr_letters = 3
+nr_numbers = 4
+nr_symbols = 2
+password_list = []
+
+for i in range(1, nr_letters + 1):
+  password_list.append(random.choice(letters))
+
+for i in range (1, nr_numbers + 1):
+  password_list.append(random.choice(numbers))
+
+for i in range (1, nr_symbols + 1):
+  password_list.append(random.choice(symbols))
+
+
+random.shuffle(password_list)
 password = ""
+for i in password_list:
+  password += i
 
-f
-
-
-
-
+print(password)
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# #Hard Level
+# #my shit code
 # #------------------letter randomizer------------------
 # list_a = []
 # for i in range(0, nr_letters):
