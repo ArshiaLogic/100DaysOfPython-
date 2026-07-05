@@ -3,7 +3,7 @@
 #we can use round function for rounding numbers to integer numbers
 # print(round(8 / 3))
 # print(round(9 / 11, 3))
-# print(8 // 3)
+print(8 // 3)
 # result = 4 / 2
 # result /= 2
 # print(result)
